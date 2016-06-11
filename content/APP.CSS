@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body{
+	font-family: 'Open Sans', sans-serif;
+background-image: url(../assets/bg.jpg);
+background-repeat: no-repeat;
+background-image: fixed;
+	font-family: arial, sans-serif;
+	text-align: center;
+}
+img{
+	float: left;
+}
+a{
+	text-decoration: none;
+color: black;
+}
+.row{
+	background-color: rgba(255,255,255,0.5);
+	
+}
+
+
